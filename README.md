@@ -2,7 +2,7 @@
 
 
 # Voll Med
-O projeto Voll Med consiste em uma API Rest desenvolvida para uma clínica médica fictícia, visando a prática com a linguagem Java eo framework Springg Boot 3.
+O projeto Voll Med consiste em uma API Rest desenvolvida para uma clínica médica fictícia, visando a prática com a linguagem Java e o framework Spring Boot 3.
 
 ## 🔨 Funcionalidades do projeto
 

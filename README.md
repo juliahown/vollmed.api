@@ -1,5 +1,4 @@
-![Programação-Java e Spring Boot](https://github.com/user-attachments/assets/eece04c0-f8d7-41e6-a120-4474ec53b8ab)
-
+![Thumbnail Alura - Java e Spring Boot](https://github.com/user-attachments/assets/581f630d-5dcb-473a-b274-a4c117848c6e)
 
 # Voll Med
 O projeto Voll Med consiste em uma API Rest desenvolvida para uma clínica médica fictícia, visando a prática com a linguagem Java e o framework Spring Boot 3.

@@ -29,7 +29,7 @@ A aplicação deve oferecer as seguintes funcionalidades:
 - `Migration`: Utilização de ferramentas como Flyway para aplicar e gerenciar migrações de banco de dados, assegurando que a estrutura do banco esteja sempre atualizada com as mudanças de código.
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto [aqui](https://github.com/JuliaHown/vollmed.api/tree/main/src/main).
+Você pode acessar os arquivos do projeto [aqui](https://github.com/JuliaHown/vollmed.api/tree/main/src/main/java/med/voll/api).
 
 
 ## 📚 Mais informações do curso

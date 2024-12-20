@@ -12,6 +12,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @EqualsAndHashCode(of = "id")
+
 public class Usuario {
 
     @Id
@@ -19,4 +20,5 @@ public class Usuario {
     private Long id;
     private String login;
     private String senha;
+
 }

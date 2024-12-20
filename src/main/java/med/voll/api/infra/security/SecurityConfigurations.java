@@ -17,12 +17,9 @@ public class SecurityConfigurations {
 
     @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
-
-        http.securityMatcher("/**")
-                .csrf(csrf -> csrf.disable()) // Desativa CSRF
-                .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS)) // Não cria sessão
-                .authorizeRequests(authz -> authz.anyRequest().authenticated());
-        return http.build();
+        return http.csrf(csrf -> csrf.disable()) // Desabilita o CSRF
+                .sessionManagement(sm -> sm.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
+                .build();
     }
 
     @Bean
